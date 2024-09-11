@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
