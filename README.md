@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0476-number-complement](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Linked List
 |  |
