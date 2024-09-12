@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
