@@ -3,6 +3,9 @@ class Solution {
         int start = 0;
         int end = 0;
         
+        int n = nums.length;
+        if (n < k) return -1;
+
         for(int num:nums) {
             start = Math.max(start,num);
             end += num;
