@@ -2,6 +2,7 @@ class Solution {
     public int splitArray(int[] nums, int k) {
         int start = 0;
         int end = 0;
+        
         for(int num:nums) {
             start = Math.max(start,num);
             end += num;
