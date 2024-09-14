@@ -5,17 +5,24 @@ class Solution {
         int start = 0;
         int end = nums.length;
 
-        for(int i=start;i<=end;i++) {
+        while(start<=end) {
+            int mid = start+(end-start)/2;
             int ans=0;
 
             for(int num : nums) {
-                if(num >= i) {
+                if(num >= mid) {
                     ans++;
                 }
             }
 
-            if(ans==i) {
-                return i;
+            if(ans==mid) {
+                return mid;
+            }
+            else if(ans < mid) {
+                end = mid-1;
+            }
+            else {
+                start = mid+1;
             }
         }
         return -1;
