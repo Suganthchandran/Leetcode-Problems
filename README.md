@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2727-number-of-senior-citizens](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Merge Sort
 |  |
 | ------- |
