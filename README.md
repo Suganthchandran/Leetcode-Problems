@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
