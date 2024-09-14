@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Merge Sort
 |  |
