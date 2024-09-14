@@ -15,7 +15,7 @@ class Solution {
                 return mid;
             }
 
-            if(mid < start && nums[mid] < nums[mid-1]) {
+            if(mid > start && nums[mid] < nums[mid-1]) {
                 return mid-1;
             }
 
