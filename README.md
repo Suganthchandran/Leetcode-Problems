@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Linked List
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
