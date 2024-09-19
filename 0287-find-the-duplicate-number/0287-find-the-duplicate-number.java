@@ -4,22 +4,16 @@ class Solution {
 
         int i=0;
         while(i<n) {
-
-            if(i!=nums[i]-1) {
-                int correct = nums[i]-1;
-                if(nums[i]!=nums[correct]) {
-                    swap(nums,i,correct);
-                }
-                else {
-                    return nums[i];
-                }
+            int correct = nums[i]-1;
+            if(nums[i]!=nums[correct]) {
+                swap(nums,i,correct);
             }
             else {
                 i++;
             }
         }
 
-        return -1;
+        return nums[n-1];
     }
 
     public void swap(int[] nums,int a,int b) {
