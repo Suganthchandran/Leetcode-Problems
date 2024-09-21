@@ -73,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
+| [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
