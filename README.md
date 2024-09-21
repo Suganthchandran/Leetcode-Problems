@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
