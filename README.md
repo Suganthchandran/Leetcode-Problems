@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
