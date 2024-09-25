@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Heap (Priority Queue)
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
