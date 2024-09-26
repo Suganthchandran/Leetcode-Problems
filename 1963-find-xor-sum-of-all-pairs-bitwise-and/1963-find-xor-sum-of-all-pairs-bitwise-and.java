@@ -1,13 +1,15 @@
 class Solution {
     public int getXORSum(int[] arr1, int[] arr2) {
-        int res1=0,res2=0;
-        for(int i=0;i<arr1.length;i++) {
-            res1 ^= arr1[i];
-        }
-
-        for(int i=0;i<arr2.length;i++) {
-            res2 ^= arr2[i];
-        }
+        int res1 = getXOR(arr1);
+        int res2 = getXOR(arr2);
         return res1&res2;
+    }
+
+    public int getXOR(int[] nums) {
+        int res=0;
+        for(int n:nums) {
+            res^=n;
+        }
+        return res;
     }
 }
