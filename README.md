@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1070-convert-to-base-2](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1585-the-kth-factor-of-n](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
