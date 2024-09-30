@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Merge Sort
