@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
 | [2727-number-of-senior-citizens](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
