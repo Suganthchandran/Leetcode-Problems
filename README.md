@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [3371-harshad-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/3371-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
