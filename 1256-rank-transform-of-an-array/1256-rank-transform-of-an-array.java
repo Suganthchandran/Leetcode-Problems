@@ -1,6 +1,12 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int[] duplicate = Arrays.copyOf(arr,arr.length);
+        int n = arr.length;
+        int[] duplicate = new int[n];
+
+        for(int i=0;i<n;i++) {
+            duplicate[i] = arr[i];
+        }
+
         Arrays.sort(duplicate);
 
         int rank = 1;
@@ -10,7 +16,7 @@ class Solution {
                 map.put(num,rank++);
             }
         }
-        int res[] = new int[arr.length];
+        int res[] = new int[n];
         for(int i=0;i<arr.length;i++) {
             res[i] = map.get(arr[i]);
         }
