@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Enumeration
