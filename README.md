@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
