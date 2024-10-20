@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2727-number-of-senior-citizens](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
