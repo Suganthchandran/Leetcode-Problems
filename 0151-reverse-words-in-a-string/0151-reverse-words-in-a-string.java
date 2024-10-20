@@ -5,7 +5,9 @@ class Solution {
 
         for(int i = words.length-1;i>=0;i--) {
             res.append(words[i]);
-            res.append(" ");
+            if(i!=0) {
+                res.append(" ");
+            }
         }
 
         return res.toString().trim();
