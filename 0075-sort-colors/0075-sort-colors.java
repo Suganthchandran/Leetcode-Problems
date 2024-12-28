@@ -1,23 +1,23 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int n = nums.length;
-        bubble(nums,n);
-    }
+        int low = 0,high = nums.length-1,mid = 0;
 
-    public void bubble(int[] nums,int n) {
-        boolean swapped;
-        for(int i=0;i<n-1;i++) {
-            swapped = false;
-            for(int j=1;j<n-i;j++) {
-                if(nums[j] < nums[j-1]) {
-                    int temp = nums[j];
-                    nums[j] = nums[j-1];
-                    nums[j-1] = temp;
-                    swapped = true;
-                }
+        for(int i=0;i<nums.length;i++) {
+            if(nums[mid]==0) {
+                int temp = nums[mid];
+                nums[mid] = nums[low];
+                nums[low] = temp;
+                low++;
+                mid++;
             }
-            if(!swapped) {
-                break;
+            else if(nums[mid]==1) {
+                mid++;
+            }
+            else {
+                int temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
+                high--;
             }
         }
     }
