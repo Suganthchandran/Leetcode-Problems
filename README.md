@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
