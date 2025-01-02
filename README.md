@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0268-missing-number) |
