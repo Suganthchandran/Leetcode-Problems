@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
 | [0782-jewels-and-stones](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/3447-clear-digits) |
