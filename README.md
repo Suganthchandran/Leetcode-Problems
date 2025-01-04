@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1127-last-stone-weight](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1127-last-stone-weight](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
