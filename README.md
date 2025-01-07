@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
 | [0782-jewels-and-stones](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
