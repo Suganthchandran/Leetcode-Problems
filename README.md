@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
