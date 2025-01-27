@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
+| [1970-sorting-the-sentence](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2001-jump-game-vii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-sorting-the-sentence](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Merge Sort
 |  |
 | ------- |
