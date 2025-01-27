@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1651-shuffle-string) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1797-goal-parser-interpretation](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Stack
 |  |
 | ------- |
