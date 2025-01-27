@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [2001-jump-game-vii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
