@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
+| [0742-to-lower-case](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
