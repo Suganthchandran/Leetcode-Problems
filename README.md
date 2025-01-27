@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1651-shuffle-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [2001-jump-game-vii](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
