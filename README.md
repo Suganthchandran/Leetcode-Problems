@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0664-strange-printer](https://github.com/Suganthchandran/Leetcode-Problems/tree/master/0664-strange-printer) |
